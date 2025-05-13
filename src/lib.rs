@@ -1,5 +1,4 @@
 use arbitrary::Arbitrary;
-use std::error::Error;
 use std::fmt;
 use std::ops::{Add, Mul, Sub};
 use std::{cmp::Ordering, iter::zip};
